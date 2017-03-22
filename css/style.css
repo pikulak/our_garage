@@ -1,0 +1,111 @@
+*{
+	border-radius: 0 !important;
+}
+
+body{
+	background-color: #eee;
+	color:white;
+}
+.np{
+	padding:0 !important;
+}
+.nm{
+	padding:0 !important;
+}
+.jumbotron{
+	height:600px;
+	color:black;
+	background-image: url("../images/header.png");
+}
+	.jumbotron h1{
+		font-size:50px;
+	}
+	.jumbotron p{
+		font-size:17px;
+	}
+
+.contact-row{
+	background-color: #292b2c !important;
+	padding:10px;
+}
+.social-icon{
+	color:white;
+	margin-right:5px;
+}
+.navbar-brand{
+	background-color: #f0ad4e;
+	font-size:25px;
+
+	color:white !important;
+}
+.navbar-brand:hover{
+	background-color: #f0ad4e !important;
+}
+.navbar{
+	min-height: 10px !important;
+	margin: 0 !important;
+	border: 0px !important;
+	background-color: #eee;
+}
+.nav-link{
+	color:#292b2c !important;
+}
+.nav-link:hover{
+	color:white !important;
+	background-color: #f0ad4e !important;
+}
+.info{
+    background-color: #eee;
+    margin-top:-100px;
+    padding:10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    z-index: 2;
+}
+.advantages, .hours, .address{
+	color:#292b2c;
+	display:inline-block !important;
+}
+.oc{
+	color:#f0ad4e !important;
+}
+.bc{
+	color:#1976D2 !important;
+}
+.who-we-are{
+	margin-top:-83px;
+	padding-top:100px;
+	background-color: #eee;
+}
+.who-we-are, .our-services{
+	padding-bottom: 70px;
+}
+.who-we-are-header, .our-services-header{
+	font-size:60px;
+}
+.who-we-are-desc, .our-services-desc{
+	font-size:28px;
+}
+.who-we-are-desc{
+	color:#292b2c;
+}
+.our-services-desc{
+	color:white;
+}
+.our-services{
+	background-color: #292b2c !important;
+}
+.table{
+	font-size:30px;
+}
+.welcome{
+	font-size:110px !important;
+	color:#292b2c !important;
+}
+.in-garage{
+	font-size:60px !important;
+	color:white;
+	margin-top: 0px;
+}
+.wc{
+	color: white !important;
+}
